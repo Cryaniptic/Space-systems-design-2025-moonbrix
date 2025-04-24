@@ -4,4 +4,4 @@ Moonbrix group project repo for sharing work for the curtin space systems design
 Data is stored in excel sheets and automatically pull/pushed when running the Jupyter notebook for calculations.
 
 ## Power Profile graph
-![Power Graph]("Mission_power_profile.png")
+![Power Graph](Mission_power_profile.png)
