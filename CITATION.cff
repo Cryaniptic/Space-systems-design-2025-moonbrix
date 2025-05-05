@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Power subsystem calculations
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Silas
+    family-names: Butler
+    email: 20002044@student.curtin.edu.au
+repository-code: >-
+  https://github.com/Cryaniptic/Space-systems-design-2025-moonbrix
+abstract: >-
+  Moonbrix group project repo for sharing work for the
+  curtin space systems design 2025.
